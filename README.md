@@ -12,6 +12,7 @@ By Yasuhiro Matsumoto.
 Fork contains the following bug fixes until them will be merged to the upstream:
 - https://github.com/go-ole/go-ole/pull/199
 - https://github.com/go-ole/go-ole/pull/201
+- https://github.com/go-ole/go-ole/pull/202
 
 Go module is renamed to the fork name to be able to use it in libs without replace trick.
 

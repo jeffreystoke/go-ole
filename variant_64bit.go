@@ -1,4 +1,4 @@
-// +build ppc64le
+// +build amd64 arm64 ppc64le ppc64 mips64 mips64le riscv64 s390x
 
 package ole
 

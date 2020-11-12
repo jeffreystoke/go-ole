@@ -1,4 +1,5 @@
-// +build windows,386
+// +build windows
+// +build 386 arm riscv mips mipsle
 
 package ole
 

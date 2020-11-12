@@ -1,4 +1,4 @@
-// +build 386
+// +build 386 arm riscv mips mipsle
 
 package ole
 

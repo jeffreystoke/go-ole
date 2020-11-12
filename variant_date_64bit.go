@@ -1,4 +1,5 @@
-// +build windows,amd64
+// +build windows
+// +build amd64 arm64 ppc64le ppc64 mips64 mips64le riscv64 s390x
 
 package ole
 
